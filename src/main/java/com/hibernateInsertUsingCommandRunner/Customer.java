@@ -1,4 +1,4 @@
-package com.hibernateInsert;
+package com.hibernateInsertUsingCommandRunner;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

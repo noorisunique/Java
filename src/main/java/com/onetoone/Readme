@@ -1,0 +1,8 @@
+POST-http://localhost:8888/employee
+{
+	"name":"kk",
+	"email":"jj",
+	"address":{
+		"city":"Jablapur"
+	}
+}

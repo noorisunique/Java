@@ -1,9 +1,9 @@
-package com.onetoone;
+package com.onetomany;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface AddressRepository extends CrudRepository<Address, Long> {
+public interface QuestionRepository extends CrudRepository<Question, Long> {
 
 }

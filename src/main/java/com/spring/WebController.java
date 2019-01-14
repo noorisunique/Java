@@ -32,7 +32,7 @@ public class WebController {
 
 		try {
 		    // convert user object to json string and return it 
-		    return mapper.writeValueAsString(member);
+		    return null;//mapper.writeValueAsString(member);
 		}
 		catch (Exception  e) {
 		    // catch various errors

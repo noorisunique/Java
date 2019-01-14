@@ -1,4 +1,4 @@
-package com.hibernateInsert;
+package com.hibernateInsertUsingCommandRunner;
 
 import java.util.List;
 

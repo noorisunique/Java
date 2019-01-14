@@ -1,4 +1,4 @@
-package com.hibernateInsert;
+package com.hibernateInsertUsingCommandRunner;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
